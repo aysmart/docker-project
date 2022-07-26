@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/noahgift/udacity-devops-microservices.svg?style=svg&circle-token=644aca8c4c94ca89efb97a97d78a4025468b67cc)](https://circleci.com/gh/noahgift/udacity-devops-microservices)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/aysmart/docker-project/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/aysmart/docker-project/tree/main)
 
 # udacity-devops-microservices
 
