@@ -1,5 +1,2 @@
-Flask
-numpy
-pandas
-scikit-learn
+click
 pylint
